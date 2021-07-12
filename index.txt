@@ -1,0 +1,10 @@
+
+	Title		||		note
+osdetect.sh		||	detect os and report to stdout
+argcnt.sh		||	argument count		
+
+
+|||||||||||||||||||  OTHER   NOTE    |||||||||||||||||||||||||||
+
+$# argument number
+
